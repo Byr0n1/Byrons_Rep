@@ -14,4 +14,4 @@ Project Description:
 Motorsport Warehouse has requested an online store to be created in order to expand the business by allowing more customers to make purchases. The main objective of creating an online store will be to make our large variety of car parts more accessible to the public all over the country. The application should be able to allow new customers to register accounts, and existing customers can log in and start shopping. Customers will be able to browse the various categories and add parts to their basket while browsing. Once they finished shopping they can checkout and pay their account.
 
 UML Diagram:
-![UML Diagram](https://cloud.githubusercontent.com/assets/10944357/7445413/4f3fb8c4-f1b2-11e4-9da7-a5364d80e06e.jpg)
+![mainv2](https://cloud.githubusercontent.com/assets/10944357/8659015/fafe6ea8-29a7-11e5-93fc-4270c846e1ba.jpg)
