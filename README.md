@@ -15,3 +15,4 @@ Motorsport Warehouse has requested an online store to be created in order to exp
 
 UML Diagram:
 ![mainv2](https://cloud.githubusercontent.com/assets/10944357/8659015/fafe6ea8-29a7-11e5-93fc-4270c846e1ba.jpg)
+
